@@ -52,3 +52,6 @@ Please run the scripts in the following order:
     
     This script produces saved comparison plots for the final test predictions, MAE and RMSE.
 
+**Source Data**
+
+Full NASA C-MAPSS files can be downloaded from: https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip
