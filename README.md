@@ -24,17 +24,30 @@ This project was developed using Python 3.11 in PyCharmEdu 2022.2.2 and requires
 
 Please run the scripts in the following order:
 1. src/check_setup.py
+
    This script prints package versions, ensure they align with the above.
+   
 3. src/preprocessing_script.py
+   
    This script creates the model-ready inputs and metadata in data/processed
-4. src/random_forest.py
+   
+5. src/random_forest.py
+   
    This script was used to develop the RF models for validation and produces validation plots, results and predictions.
-6. src/ann.py
+   
+7. src/ann.py
+   
    This script was used to develop the ANN models for validation and produces saved validation plots, results and predictions.
-8. src/lstm.py
+   
+9. src/lstm.py
+    
    This script was used to develop the LSTM models for validation and produces saved validation plots, results and predictions.
-10. src/final_testing.py
+   
+11. src/final_testing.py
+    
     This script rebuilds the selected models and produces saved final test results and predictions.
-12. src/final_plots.py
+    
+13. src/final_plots.py
+    
     This script produces saved comparison plots for the final test predictions, MAE and RMSE.
 
