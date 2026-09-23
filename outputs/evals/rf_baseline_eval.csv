@@ -1,0 +1,2 @@
+model,mae,rmse,r_squared
+Random Forest baseline,30.42455298775719,42.107034389473135,0.6323277781027312
