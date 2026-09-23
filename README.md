@@ -10,6 +10,7 @@ This repository contains all source code and associated files for the MSc Data S
 - outputs/figures: saves plots
 - outputs/predictions: saved predictions for baseline and selected models
 - src: scripts for preprocessing, model development, final testing and results
+- notes: project log, commentary of steps taken during code development
  
 **Requirements**
 
