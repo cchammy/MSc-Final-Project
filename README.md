@@ -12,6 +12,7 @@ This repository contains all source code and associated files for the MSc Data S
 - src: scripts for preprocessing, model development, final testing and results
  
 **Requirements**
+
 This project was developed using Python 3.11 in PyCharmEdu 2022.2.2 and requires:
 - pandas 3.0.5
 - NumPy 2.4.6
@@ -20,6 +21,7 @@ This project was developed using Python 3.11 in PyCharmEdu 2022.2.2 and requires
 - Matplotlib 3.11.1
 
 **Running the project**
+
 Please run the scripts in the following order:
 1. src/check_setup.py
    This script prints package versions, ensure they align with the above.
