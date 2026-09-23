@@ -1,7 +1,8 @@
 # MSc-Final-Project
- Time Will Tell: benchmarking LSTM networks against traditional methods for remaining useful life prediction
+ **Time Will Tell: benchmarking LSTM networks against traditional methods for remaining useful life prediction**
 
 This repository contains all source code and associated files for the MSc Data Science final project. This README details requirements and instructions for running the code.
+
 
 **Contents**
 - data/raw: NASA C-MAPSS FD001 source files and readme.txt
@@ -11,6 +12,7 @@ This repository contains all source code and associated files for the MSc Data S
 - outputs/predictions: saved predictions for baseline and selected models
 - src: scripts for preprocessing, model development, final testing and results
 - notes: project log, commentary of steps taken during code development
+
  
 **Requirements**
 
@@ -20,6 +22,7 @@ This project was developed using Python 3.11 in PyCharmEdu 2022.2.2 and requires
 - scikit-learn 1.9.0
 - TensorFlow 2.21.0
 - Matplotlib 3.11.1
+
 
 **Running the project**
 
@@ -51,6 +54,7 @@ Please run the scripts in the following order:
 13. src/final_plots.py
     
     This script produces saved comparison plots for the final test predictions, MAE and RMSE.
+
 
 **Source Data**
 
