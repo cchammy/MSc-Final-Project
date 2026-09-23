@@ -1,7 +1,7 @@
 # MSc-Final-Project
  **Time Will Tell: benchmarking LSTM networks against traditional methods for remaining useful life prediction**
 
-This repository contains all source code and associated files for the MSc Data Science final project. This README details requirements and instructions for running the code.
+This repository contains all source code and associated files for my MSc Data Science final project. This README details requirements and instructions for running the code.
 
 
 **Contents**
