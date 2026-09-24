@@ -1,5 +1,5 @@
 # MSc-Final-Project
- **Time Will Tell: Comparing static and sequential machine-learning approaches for remaining useful life prediction*
+ **Time Will Tell: Comparing static and sequential machine-learning approaches for remaining useful life prediction**
 
 This repository contains all source code and associated files for my MSc Data Science final project. This README details requirements and instructions for running the code.
 
